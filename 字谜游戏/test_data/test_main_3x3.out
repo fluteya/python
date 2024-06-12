@@ -1,0 +1,884 @@
+
+Welcome to the big brain sliding puzzle game.
+This game is based on the real life sliding puzzle: https://en.wikipedia.org/wiki/Sliding_puzzle
+Try the game online here: https://www.helpfulgames.com/subjects/brain-training/sliding-puzzle.html
+
+
+Choose your difficulty. The larger the puzzle, the harder it is to solve.
+How big do you want the puzzle to be? 3
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | b | i |
++---+---+---+
+| x | l |   |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | b |   |
++---+---+---+
+| x | l | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i |   | b |
++---+---+---+
+| x | l | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | l | b |
++---+---+---+
+| x |   | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | l | b |
++---+---+---+
+| x | i |   |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+'R' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | l | b |
++---+---+---+
+| x | i |   |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | l |   |
++---+---+---+
+| x | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i |   | l |
++---+---+---+
+| x | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+|   | i | l |
++---+---+---+
+| x | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| x | i | l |
++---+---+---+
+|   | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| x | i | l |
++---+---+---+
+| i |   | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| x |   | l |
++---+---+---+
+| i | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c |   | m |
++---+---+---+
+| x | p | l |
++---+---+---+
+| i | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | m |   |
++---+---+---+
+| x | p | l |
++---+---+---+
+| i | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c |   | m |
++---+---+---+
+| x | p | l |
++---+---+---+
+| i | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+|   | c | m |
++---+---+---+
+| x | p | l |
++---+---+---+
+| i | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| x | c | m |
++---+---+---+
+|   | p | l |
++---+---+---+
+| i | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| x | c | m |
++---+---+---+
+| p |   | l |
++---+---+---+
+| i | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| x |   | m |
++---+---+---+
+| p | c | l |
++---+---+---+
+| i | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| x | m |   |
++---+---+---+
+| p | c | l |
++---+---+---+
+| i | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| x | m | l |
++---+---+---+
+| p | c |   |
++---+---+---+
+| i | i | b |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| x | m | l |
++---+---+---+
+| p | c | b |
++---+---+---+
+| i | i |   |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| x | m | l |
++---+---+---+
+| p | c | b |
++---+---+---+
+| i |   | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| x | m | l |
++---+---+---+
+| p |   | b |
++---+---+---+
+| i | c | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): H
+
+Options:
+    H:          Display this help message
+    GU:         Stop the current game
+    [U|D|L|R]:  Move the empty cell in the up/down/left/right direction, 
+                respectively.
+
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| x | m | l |
++---+---+---+
+| p |   | b |
++---+---+---+
+| i | c | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| x | m | l |
++---+---+---+
+| p | c | b |
++---+---+---+
+| i |   | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| x | m | l |
++---+---+---+
+| p | c | b |
++---+---+---+
+|   | i | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| x | m | l |
++---+---+---+
+|   | c | b |
++---+---+---+
+| p | i | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+|   | m | l |
++---+---+---+
+| x | c | b |
++---+---+---+
+| p | i | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m |   | l |
++---+---+---+
+| x | c | b |
++---+---+---+
+| p | i | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | c | l |
++---+---+---+
+| x |   | b |
++---+---+---+
+| p | i | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | c | l |
++---+---+---+
+|   | x | b |
++---+---+---+
+| p | i | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | c | l |
++---+---+---+
+| p | x | b |
++---+---+---+
+|   | i | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | c | l |
++---+---+---+
+| p | x | b |
++---+---+---+
+| i |   | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | c | l |
++---+---+---+
+| p |   | b |
++---+---+---+
+| i | x | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m |   | l |
++---+---+---+
+| p | c | b |
++---+---+---+
+| i | x | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | l |   |
++---+---+---+
+| p | c | b |
++---+---+---+
+| i | x | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | c |   |
++---+---+---+
+| i | x | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p |   | c |
++---+---+---+
+| i | x | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | x | c |
++---+---+---+
+| i |   | i |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | x | c |
++---+---+---+
+| i | i |   |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | x |   |
++---+---+---+
+| i | i | c |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p |   | x |
++---+---+---+
+| i | i | c |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i |   | c |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c |   |
++---+---+---+
+
+Congratulations, you've won the game. Here's your candy:
+              ___      .-""-.      ___
+              \  "-.  /      \  .-"  /
+               > -=.\/        \/.=- <
+               > -='\        /\'=- <
+              /__.-'  \      /  '-.__\
+                       '-..-'
+    
+    
+Do you want to play again? [Y/n] n
+Bye.
+

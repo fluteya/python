@@ -1,0 +1,436 @@
+
+Welcome to the big brain sliding puzzle game.
+This game is based on the real life sliding puzzle: https://en.wikipedia.org/wiki/Sliding_puzzle
+Try the game online here: https://www.helpfulgames.com/subjects/brain-training/sliding-puzzle.html
+
+
+Choose your difficulty. The larger the puzzle, the harder it is to solve.
+How big do you want the puzzle to be? 3
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | b | i |
++---+---+---+
+| x | l |   |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+'D' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | b | i |
++---+---+---+
+| x | l |   |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+'R' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | b | i |
++---+---+---+
+| x | l |   |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | b | i |
++---+---+---+
+| x |   | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+'D' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | b | i |
++---+---+---+
+| x |   | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | b | i |
++---+---+---+
+|   | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+'D' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | b | i |
++---+---+---+
+|   | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+'L' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | b | i |
++---+---+---+
+|   | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+|   | b | i |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+'L' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+|   | b | i |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+|   | p | m |
++---+---+---+
+| c | b | i |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+'L' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+|   | p | m |
++---+---+---+
+| c | b | i |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+'U' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+|   | p | m |
++---+---+---+
+| c | b | i |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| p |   | m |
++---+---+---+
+| c | b | i |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+'U' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| p |   | m |
++---+---+---+
+| c | b | i |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| p | m |   |
++---+---+---+
+| c | b | i |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+'U' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| p | m |   |
++---+---+---+
+| c | b | i |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+'R' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| p | m |   |
++---+---+---+
+| c | b | i |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): D
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| p | m | i |
++---+---+---+
+| c | b |   |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): R
+'R' is not a possible move here. Please try again.
+
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| p | m | i |
++---+---+---+
+| c | b |   |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| p | m | i |
++---+---+---+
+| c |   | b |
++---+---+---+
+| i | x | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): GU
+Aww, too bad. Better luck next time.
+
+Do you want to play again? [Y/n] n
+Bye.
+

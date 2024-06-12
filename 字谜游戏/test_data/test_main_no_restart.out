@@ -1,0 +1,28 @@
+
+Welcome to the big brain sliding puzzle game.
+This game is based on the real life sliding puzzle: https://en.wikipedia.org/wiki/Sliding_puzzle
+Try the game online here: https://www.helpfulgames.com/subjects/brain-training/sliding-puzzle.html
+
+
+Choose your difficulty. The larger the puzzle, the harder it is to solve.
+How big do you want the puzzle to be? 2
+Solution:
++---+---+
+| g | p |
++---+---+
+| h | k |
++---+---+
+
+Current position:
++---+---+
+| p | h |
++---+---+
+| g |   |
++---+---+
+
+Please input a direction (enter "H" for instructions): GU
+Aww, too bad. Better luck next time.
+
+Do you want to play again? [Y/n] abcd
+Bye.
+

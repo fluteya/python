@@ -1,0 +1,163 @@
+
+Welcome to the big brain sliding puzzle game.
+This game is based on the real life sliding puzzle: https://en.wikipedia.org/wiki/Sliding_puzzle
+Try the game online here: https://www.helpfulgames.com/subjects/brain-training/sliding-puzzle.html
+
+
+Choose your difficulty. The larger the puzzle, the harder it is to solve.
+How big do you want the puzzle to be? 3
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | b | i |
++---+---+---+
+| x | l |   |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+
+| m | l | b |
++---+---+---+
+| p | i | x |
++---+---+---+
+| i | c | q |
++---+---+---+
+
+Current position:
++---+---+---+
+| c | p | m |
++---+---+---+
+| i | b | i |
++---+---+---+
+| x |   | l |
++---+---+---+
+
+Please input a direction (enter "H" for instructions): GU
+Aww, too bad. Better luck next time.
+
+Do you want to play again? [Y/n] y
+
+Choose your difficulty. The larger the puzzle, the harder it is to solve.
+How big do you want the puzzle to be? 4
+Solution:
++---+---+---+---+
+| g | r | o | w |
++---+---+---+---+
+| h | i | n | t |
++---+---+---+---+
+| s | o | m | a |
++---+---+---+---+
+| s | a | l | t |
++---+---+---+---+
+
+Current position:
++---+---+---+---+
+| t | o | i | r |
++---+---+---+---+
+| s | s | w | a |
++---+---+---+---+
+| n | m | g | o |
++---+---+---+---+
+| l | h | a |   |
++---+---+---+---+
+
+Please input a direction (enter "H" for instructions): L
+Solution:
++---+---+---+---+
+| g | r | o | w |
++---+---+---+---+
+| h | i | n | t |
++---+---+---+---+
+| s | o | m | a |
++---+---+---+---+
+| s | a | l | t |
++---+---+---+---+
+
+Current position:
++---+---+---+---+
+| t | o | i | r |
++---+---+---+---+
+| s | s | w | a |
++---+---+---+---+
+| n | m | g | o |
++---+---+---+---+
+| l | h |   | a |
++---+---+---+---+
+
+Please input a direction (enter "H" for instructions): GU
+Aww, too bad. Better luck next time.
+
+Do you want to play again? [Y/n] y
+
+Choose your difficulty. The larger the puzzle, the harder it is to solve.
+How big do you want the puzzle to be? 5
+Solution:
++---+---+---+---+---+
+| c | a | r | d | s |
++---+---+---+---+---+
+| o | c | e | a | n |
++---+---+---+---+---+
+| p | l | a | n | t |
++---+---+---+---+---+
+| f | a | t | a | l |
++---+---+---+---+---+
+| k | a | t | i | e |
++---+---+---+---+---+
+
+Current position:
++---+---+---+---+---+
+| d | a | p | c | r |
++---+---+---+---+---+
+| a | c | i | t | a |
++---+---+---+---+---+
+| a | s | k | n | l |
++---+---+---+---+---+
+| e | o | t | l | a |
++---+---+---+---+---+
+| a | f | n | t |   |
++---+---+---+---+---+
+
+Please input a direction (enter "H" for instructions): U
+Solution:
++---+---+---+---+---+
+| c | a | r | d | s |
++---+---+---+---+---+
+| o | c | e | a | n |
++---+---+---+---+---+
+| p | l | a | n | t |
++---+---+---+---+---+
+| f | a | t | a | l |
++---+---+---+---+---+
+| k | a | t | i | e |
++---+---+---+---+---+
+
+Current position:
++---+---+---+---+---+
+| d | a | p | c | r |
++---+---+---+---+---+
+| a | c | i | t | a |
++---+---+---+---+---+
+| a | s | k | n | l |
++---+---+---+---+---+
+| e | o | t | l |   |
++---+---+---+---+---+
+| a | f | n | t | a |
++---+---+---+---+---+
+
+Please input a direction (enter "H" for instructions): GU
+Aww, too bad. Better luck next time.
+
+Do you want to play again? [Y/n] n
+Bye.
+
